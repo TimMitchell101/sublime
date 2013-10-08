@@ -1,0 +1,34 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"codeintel_disabled_languages":
+	[
+		"css",
+		"less"
+	],
+	"color_scheme": "Packages/User/Espresso Soda.tmTheme",
+	"default_line_ending": "unix",
+	"font_face": "Monaco",
+	"font_size": 8,
+	"ignored_packages":
+	[
+		"ColorPicker",
+		"SublimeCodeIntel",
+		"Vintage",
+		"JsMinifier",
+		"sublime-closure-linter",
+		"SublimeXdebug-master",
+		"Clojure"
+	],
+	"ignored_words":
+	[
+		"Javscript"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"shift_tab_unindent": true,
+	"tab_completion": true,
+	"theme": "Soda Light.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"word_separators": "./\\()\"'-,.;<>~!@#$%^&*|+=[]{}`~?",
+	"word_wrap": true
+}

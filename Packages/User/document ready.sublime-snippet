@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[ \$(document).ready(function() { 
+
+});]]></content>
+</snippet>

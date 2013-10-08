@@ -1,0 +1,24 @@
+2012-03-27 17:07:37
+Traceback (most recent call last):
+  File "./sftp/threads.py", line 16, in run_with_except_hook
+  File "./sftp/threads.py", line 101, in handler
+  File "./sftp/commands.py", line 241, in run
+  File "./sftp/commands.py", line 367, in do_operation
+  File "./sftp/ftp_transport.py", line 605, in put
+NotFoundError: Folder not found
+2012-03-27 17:07:52
+Traceback (most recent call last):
+  File "./sftp/threads.py", line 16, in run_with_except_hook
+  File "./sftp/threads.py", line 101, in handler
+  File "./sftp/commands.py", line 241, in run
+  File "./sftp/commands.py", line 367, in do_operation
+  File "./sftp/ftp_transport.py", line 605, in put
+PermissionError: Can't create directory already exists
+2012-03-27 17:07:55
+Traceback (most recent call last):
+  File "./sftp/threads.py", line 16, in run_with_except_hook
+  File "./sftp/threads.py", line 101, in handler
+  File "./sftp/commands.py", line 241, in run
+  File "./sftp/commands.py", line 367, in do_operation
+  File "./sftp/ftp_transport.py", line 605, in put
+PermissionError: Can't create directory already exists

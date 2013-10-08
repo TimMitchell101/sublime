@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[@media only screen and (max-width: ${1:960}px) {
+	${0:/* code...*/}
+}]]></content>
+    <tabTrigger>media</tabTrigger>
+    <tabTrigger>.media</tabTrigger>
+    <description>@media</description>
+</snippet>

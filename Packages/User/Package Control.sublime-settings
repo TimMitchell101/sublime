@@ -1,0 +1,29 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Additional PHP Snippets",
+		"All Autocomplete",
+		"Alternative Autocompletion",
+		"ApacheConf.tmLanguage",
+		"BracketHighlighter",
+		"CSScomb",
+		"DetectSyntax",
+		"DocBlockr",
+		"Emmet",
+		"FileDiffs",
+		"HTML5",
+		"jQuery",
+		"jQuery Snippets pack",
+		"JsMinifier",
+		"LESS",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"PHP Syntax Checker",
+		"Sass",
+		"sublime-closure-linter",
+		"SublimeCodeIntel",
+		"Tag",
+		"Theme - Soda"
+	]
+}

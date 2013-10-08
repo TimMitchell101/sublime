@@ -1,0 +1,5 @@
+[
+	{ "keys": ["ctrl+alt+l"],"command": "run_macro_file", "args": {"file": "Packages/User/link.sublime-macro"} },
+	{ "keys": ["ctrl+enter"],"command": "run_macro_file", "args": {"file": "Packages/User/br.sublime-macro"} },
+	{ "keys": ["ctrl+shift+b"],"command": "run_macro_file", "args": {"file": "Packages/User/bold.sublime-macro"} }
+]
